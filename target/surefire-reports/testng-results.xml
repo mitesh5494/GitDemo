@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="72" started-at="2020-08-13T17:04:26 IST" finished-at="2020-08-13T17:04:27 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="72" started-at="2020-08-13T17:04:26 IST" finished-at="2020-08-13T17:04:27 IST">
+      <class name="rahulshettyacademy.SeleniumTest">
+        <test-method status="PASS" signature="BrowserAutomation()[pri:0, instance:rahulshettyacademy.SeleniumTest@6e1ec318]" name="BrowserAutomation" duration-ms="1" started-at="2020-08-13T17:04:27 IST" finished-at="2020-08-13T17:04:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+        <test-method status="PASS" signature="elementsUi()[pri:0, instance:rahulshettyacademy.SeleniumTest@6e1ec318]" name="elementsUi" duration-ms="0" started-at="2020-08-13T17:04:27 IST" finished-at="2020-08-13T17:04:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementsUi -->
+      </class> <!-- rahulshettyacademy.SeleniumTest -->
+      <class name="rahulshettyacademy.APITest">
+        <test-method status="PASS" signature="deleteTwitter()[pri:0, instance:rahulshettyacademy.APITest@10bdf5e5]" name="deleteTwitter" duration-ms="7" started-at="2020-08-13T17:04:27 IST" finished-at="2020-08-13T17:04:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTwitter -->
+        <test-method status="PASS" signature="postJira()[pri:0, instance:rahulshettyacademy.APITest@10bdf5e5]" name="postJira" duration-ms="0" started-at="2020-08-13T17:04:27 IST" finished-at="2020-08-13T17:04:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJira -->
+      </class> <!-- rahulshettyacademy.APITest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
